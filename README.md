@@ -6,7 +6,7 @@ Source code for paper: [Intent Contrastive Learning for Sequential Recommendatio
 
 Motivation: 
 
-Users' interactions with items are driven by various underlying intents. These intents are potentially beneficial to learn a better users' preferences toward massive item set.
+Users' interactions with items are driven by various underlying intents. These intents are often unobservable while potentially beneficial to learn a better users' preferences toward massive item set.
 
 <img src="./img/motivation_sports.png" width="300">
 
