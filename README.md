@@ -33,6 +33,7 @@ Please cite our paper if you use this code.
 Python >= 3.7  
 Pytorch >= 1.2.0  
 tqdm == 4.26.0
+faiss-gpu==1.7.1
 
 ### Datasets
 
